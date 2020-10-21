@@ -1,0 +1,2 @@
+# streaks
+Trailed-source detection.
